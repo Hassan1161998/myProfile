@@ -1,0 +1,65 @@
+body{
+margin: 20px;
+}
+
+#main{
+  background-color: aqua;
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  padding: 20px;
+}
+  
+#myphoto{
+  display: inline;
+border-radius: 50%;
+}
+#name{
+display: inline-block;
+}
+#intro{
+font-size: 20px;
+}
+#learn{
+background-color: cadetblue;
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  padding-top: 15px;
+  margin-bottom: 20px;
+}
+#header{
+text-align: center;
+  display: block;
+}
+.item{
+  display: inline-block;
+}
+.logo{
+font-size: 120px;
+  display: block;
+margin-top: 15%;
+  text-align: center;
+}
+.techname{
+  text-align: center;
+}
+#contact{
+width: auto;
+  height: auto;
+  background-color: red !important;
+}
+form{
+margin-bottom: 10px;
+}
+form p {
+margin-bottom: -2px;
+}
+input{
+display: block;
+  margin-bottom: 3px;
+  width: inherit;
+}
+#sign{
+margin-top: 20px; height: auto;
+}
